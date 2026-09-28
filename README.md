@@ -1,3 +1,5 @@
+> 選考・デモ動作確認用の公開です。無断転載・再配布はご遠慮ください。
+
 目次
 * [addressParser_Demo](#addressparser_demo)
 	* [概要](#概要)
